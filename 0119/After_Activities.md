@@ -4,7 +4,7 @@
 - 윤성우의 열혈 C++ 프로그래밍 책의 Part 1~3 까지 학습하였다.
 
  * Part 1
- * * Chapter 01 C언어 기반의 C++ 1
+  * Chapter 01 C언어 기반의 C++ 1
  * * Chapter 02 C언어 기반의 C++ 2
   
  * Part 2
